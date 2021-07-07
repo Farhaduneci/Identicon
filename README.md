@@ -8,6 +8,7 @@ Here I did code a module to create a PNG file Identicon based on string input.
 
 ## Usage
 
-```elixir
-
+```bash
+iex -S mix
+iex> Identicon.main "Farhad"
 ```
